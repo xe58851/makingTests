@@ -1,5 +1,8 @@
 package es.makingtests.main
 
+/**
+ * Main class!
+ */
 public class Main {
 	
 	public Main() {
